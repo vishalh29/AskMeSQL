@@ -88,7 +88,7 @@ def groq_infer(prompt):
 # infer - pipeline -> pipe()
 def main():
     st.set_page_config(page_title="Database Administrator", page_icon="📊", layout="wide")
-    st.title("Mixtral Database Administrator ft. Groq")
+    st.title("AskMeSQL")
 
     col1, col2 = st.columns([2, 3])
 
