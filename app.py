@@ -87,7 +87,7 @@ def groq_infer(prompt):
 # 1. Create cache_resource - To load the model
 # infer - pipeline -> pipe()
 def main():
-    st.set_page_config(page_title="AskMeSQL", page_icon="📊", layout="wide")
+    st.set_page_config(page_title="AskMeSQL", page_icon="💬", layout="wide")
     st.title("AskMeSQL")
 
     col1, col2 = st.columns([2, 3])
