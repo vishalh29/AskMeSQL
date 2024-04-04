@@ -50,10 +50,7 @@ Your role as a text-to-SQL model is to generate SQL queries that retrieve, filte
 
 In your capacity as an expert text-to-SQL model, you're entrusted with the task of devising SQL queries that incorporate advanced optimization techniques, such as query caching and query plan analysis, to enhance performance and efficiency in data retrieval.
 
-### Question:
 
-### Question:
-`{question}`
 
 ### Input:
 `{question}`
